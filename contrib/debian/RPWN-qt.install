@@ -1,0 +1,6 @@
+usr/local/bin/RPWN-qt usr/bin
+share/pixmaps/RPWN32.xpm usr/share/pixmaps
+share/pixmaps/RPWN16.xpm usr/share/pixmaps
+share/pixmaps/RPWN128.png usr/share/pixmaps
+debian/RPWN-qt.desktop usr/share/applications
+debian/RPWN-qt.protocol usr/share/kde4/services/
