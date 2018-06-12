@@ -24,10 +24,8 @@ Drag RPWN-Qt to your applications folder, and then run RPWN-Qt.
 
 ### Need Help?
 
-* See the [RPWN documentation](https://RPWNpay.atlassian.net/wiki/display/DOC)
-for help and more information.
-* Ask for help on [#RPWNpay](http://webchat.freenode.net?channels=RPWNpay) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=RPWNpay).
-* Ask for help on the [RPWNTalk](https://RPWNtalk.org/) forums.
+* Ask for help on Discord [DISCORD](https://discord.gg/EqtUe2b)
+* Ask for help on the [BITCOINTalk](https://bitcointalk.org/index.php?topic=3916320.0) forums.
 
 Building
 ---------------------
@@ -57,7 +55,7 @@ The RPWN Core repo's [root README](/README.md) contains relevant information on 
 - [Dnsseed Policy](dnsseed-policy.md)
 
 ### Resources
-* Discuss on the [DISCORD](https://discord.gg/EqtUe2b) forums, in the Development & Technical Discussion board.
+* Discuss on the [DISCORD](https://discord.gg/EqtUe2b) server.
 
 
 ### Miscellaneous
