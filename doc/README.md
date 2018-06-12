@@ -57,8 +57,8 @@ The RPWN Core repo's [root README](/README.md) contains relevant information on 
 - [Dnsseed Policy](dnsseed-policy.md)
 
 ### Resources
-* Discuss on the [RPWNTalk](https://RPWNtalk.org/) forums, in the Development & Technical Discussion board.
-* Discuss on [#RPWNpay](http://webchat.freenode.net/?channels=RPWNpay) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=RPWNpay).
+* Discuss on the [DISCORD](https://discord.gg/EqtUe2b) forums, in the Development & Technical Discussion board.
+
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
