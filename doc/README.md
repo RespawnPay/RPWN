@@ -1,4 +1,4 @@
-RPWN Core 0.12.5
+RPWN Core 0.12.5.2
 =====================
 
 This is the official reference wallet for RPWN digital currency and comprises the backbone of the RPWN peer-to-peer network. You can [download RPWN Core](https://www.respawn.rocks) or [build it yourself](#building) using the guides below.
