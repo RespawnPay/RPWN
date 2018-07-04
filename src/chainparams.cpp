@@ -115,7 +115,7 @@ public:
         assert(consensus.hashGenesisBlock == uint256S("0x0000063bb7902a39a7fe9f349767fd233fa264ebdcdd9ffc7d70ab834678b6ba"));
         assert(genesis.hashMerkleRoot == uint256S("0xb85e6b744283fa6bf21d8c089a784b7375f5919fdf0ad0c046394b1c5265bbe5"));
 
-        vSeeds.push_back(CDNSSeedData("185.204.3.29", "185.204.3.29"));
+        vSeeds.push_back(CDNSSeedData("212.159.107.124", "212.159.107.124"));
 		
 		// Respawn addresses start with 			'o'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,115);
