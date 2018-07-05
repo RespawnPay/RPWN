@@ -77,7 +77,7 @@ Whenever a masternode comes online or a client is syncing, they will send this m
 
 | Field Size | Field Name | Data type | Description |
 | ---------- | ----------- | --------- | -------- |
-| 41 | vin | [CTxIn](#ctxin) | The unspent output which is holding 1000 RPWN
+| 41 | vin | [CTxIn](#ctxin) | The unspent output which is holding 3000 RPWN
 | # | addr | [CService](#cservice) | IPv4 address of the masternode
 | 33-65 | pubKeyCollateralAddress | [CPubKey](#cpubkey) | CPubKey of the main 1000 RPWN unspent output
 | 33-65 | pubKeyMasternode | [CPubKey](#cpubkey) | CPubKey of the secondary signing key (For all other messaging other than announce message)
@@ -275,8 +275,8 @@ Masternode Verify
 
 | Field Size | Field Name | Data type | Description |
 | ---------- | ----------- | --------- | -------- |
-| 41 | vin1 | [CTxIn](#ctxin) | The unspent output which is holding 1000 RPWN for masternode 1
-| 41 | vin2 | [CTxIn](#ctxin) | The unspent output which is holding 1000 RPWN for masternode 2
+| 41 | vin1 | [CTxIn](#ctxin) | The unspent output which is holding 3000 RPWN for masternode 1
+| 41 | vin2 | [CTxIn](#ctxin) | The unspent output which is holding 3000 RPWN for masternode 2
 | # | addr | [CService](#cservice) | IPv4 address / port of the masternode
 | 4 | nonce | int | Nonce
 | 4 | nBlockHeight | int | The blockheight
