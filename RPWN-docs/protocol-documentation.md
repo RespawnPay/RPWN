@@ -318,7 +318,7 @@ Get Masternode list or specific entry
 
 | Field Size | Field Name | Data type | Description |
 | ---------- | ----------- | --------- | -------- |
-| 41 | vin | [CTxIn](#ctxin) | The unspent output which is holding 1000 RPWN
+| 41 | vin | [CTxIn](#ctxin) | The unspent output which is holding 3000 RPWN
 
 ### SYNCSTATUSCOUNT - "ssc"
 
